@@ -20,6 +20,5 @@ Be responsive.
 
 Have a polished UI.
 
-
-/assets/screenshot.png
-/assets/screenshot2.png
+<img src="assets/screenshot.png"/>
+<img src="assets/screenshot2.png"/>
