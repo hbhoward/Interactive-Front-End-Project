@@ -1,7 +1,7 @@
 
 This is the first project in the Uconn Coding Bootcamp
 
-Github Link: https://github.com/hbhoward/Interactive-Front-End-Project/
+Github Link: https://github.com/hbhoward/Interactive-Front-End-Project/ <br>
 Deployed App: https://hbhoward.github.io/Interactive-Front-End-Project/
 
 I was tasked with creating a static website that followed the following criteria:
